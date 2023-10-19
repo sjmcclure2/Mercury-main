@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "User" ALTER COLUMN "theme" SET DEFAULT 'light',
+ALTER COLUMN "theme" SET DATA TYPE TEXT;
